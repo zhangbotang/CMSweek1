@@ -116,7 +116,7 @@ public class FlowerController {
 	/**
 	 * 
 	 * @Title: toUpdate 
-	 * @Description: 去修改页面
+	 * @Description: 郭竹大傻瓜
 	 * @param fid
 	 * @param pageNum
 	 * @param request
